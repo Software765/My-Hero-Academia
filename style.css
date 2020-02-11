@@ -4,20 +4,26 @@ body {
 
 .desc {
 	text-align: center;
+	background-color: white;
+	border-radius: 20px;
+	padding: 3px;
+	border-width: 7px;
+	border-style: solid;
+	border-color: red;
+
 }
 
 .desc h1 {
-	color: red;
+	color: #ed2a11;
 	font-size: 50px;
 }
 
 .desc h3 {
-	color: red;
+	color: #ed2a11;
 	font-size: 30px;
 }
 
 .desc p {
-	background-color: yellow;
-	border-color: red;
-	font-size: 23px;
+	color: #ed2a11;
+	font-size: 27px;
 }

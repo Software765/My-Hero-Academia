@@ -1,0 +1,23 @@
+body {
+	background-image: url(https://vignette.wikia.nocookie.net/bokunoheroacademia/images/a/a7/U.A._Main_Building.png/revision/latest?cb=20160508230412);
+}
+
+.desc {
+	text-align: center;
+}
+
+.desc h1 {
+	color: red;
+	font-size: 50px;
+}
+
+.desc h3 {
+	color: red;
+	font-size: 30px;
+}
+
+.desc p {
+	background-color: yellow;
+	border-color: red;
+	font-size: 23px;
+}

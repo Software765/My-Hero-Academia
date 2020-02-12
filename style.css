@@ -27,3 +27,8 @@ body {
 	color: #ed2a11;
 	font-size: 27px;
 }
+
+#thumbnail {
+	height: 400px;
+	width: 520px;
+}

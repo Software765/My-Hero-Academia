@@ -1,10 +1,22 @@
 body {
 	background-image: url(https://vignette.wikia.nocookie.net/bokunoheroacademia/images/a/a7/U.A._Main_Building.png/revision/latest?cb=20160508230412);
+	margin-left: 160px;
 }
 
 .logo img{
 	height: 150px;
 	width: 320px;
+}
+
+nav {
+	height: 100%;
+	width: 160px;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	overflow-x: hidden;
+	background-color: yellow;
 }
 
 .desc {

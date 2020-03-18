@@ -65,3 +65,16 @@ body {
 #pic {
 	border-radius: 15px;
 }
+
+.icon1 p, .icon2 p, .icon3 p, .icon4 p, .icon5 p, .icon6 p, .icon7 p, .icon8 p, .icon9 p, .icon10 p, .icon11 p, .icon12 p, .icon13 p, .icon14 p, .icon15 p, .icon16 p, .icon17 p, .icon18 p, .icon19 p, .icon20 p {
+	font-size: 17px;
+	color: red;
+	text-align: center;
+	background-color: white;
+	border-radius: 10px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: red;
+	padding: 5px;
+
+} 

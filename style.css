@@ -74,6 +74,12 @@ nav {
 	justify-content: center;
 }
 
+.title {
+	font-size: 45px;
+	color: red;
+	text-align: center;
+}
+
 #pic {
 	border-radius: 15px;
 	height: 200px;

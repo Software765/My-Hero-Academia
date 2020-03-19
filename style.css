@@ -114,4 +114,14 @@ nav li {
 	border-color: red;
 	padding: 5px;
 
-} 
+}
+
+.profile {
+	float: right;
+}
+
+#pro {
+	height: 700px;
+	width: 320px;
+	border-radius: 8px;
+}

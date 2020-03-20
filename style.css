@@ -116,7 +116,7 @@ nav li {
 
 }
 
-.icon18 a {
+.icon5 a, .icon18 a {
 	text-decoration: none;
 }
 
@@ -132,6 +132,7 @@ nav li {
 	height: 700px;
 	width: 320px;
 	border-radius: 8px;
+	background-color: white;
 }
 
 .intro p {

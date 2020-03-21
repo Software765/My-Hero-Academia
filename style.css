@@ -97,6 +97,39 @@ nav li {
 	text-align: center;
 }
 
+#image {
+	height: 300px;
+	width: 600px;
+}
+
+.title1 img {
+	float: left;
+}
+
+.title1 h2 {
+	color: red;
+	font-size: 35px;
+}
+
+.title1 p {
+	display: inline;
+	font-size: 20px;
+}
+
+.title2 img {
+	float: right;
+}
+
+.title2 h2 {
+	color: red;
+	font-size: 35px;
+}
+
+.title2 p {
+	display: inline;
+	font-size: 20px;
+}
+
 #pic {
 	border-radius: 15px;
 	height: 200px;

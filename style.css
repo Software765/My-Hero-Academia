@@ -153,6 +153,7 @@ nav li {
 	border-radius: 15px;
 	height: 200px;
 	width: 200px;
+	background-color: white;
 }
 
 .icon1 p, .icon2 p, .icon3 p, .icon4 p, .icon5 p, .icon6 p, .icon7 p, .icon8 p, .icon9 p, .icon10 p, .icon11 p, .icon12 p, .icon13 p, .icon14 p, .icon15 p, .icon16 p, .icon17 p, .icon18 p, .icon19 p, .icon20 p {
@@ -168,7 +169,7 @@ nav li {
 
 }
 
-.icon2, a, .icon3 a, .icon4 a, .icon5 a, .icon7 a, .icon8 a, .icon12 a, .icon13 a, .icon15 a, .icon17 a, .icon18 a, .icon20 a {
+.icon1 a, .icon2, a, .icon3 a, .icon4 a, .icon5 a, .icon6 a, .icon7 a, .icon8 a, .icon9 a, .icon10 a, .icon11 a, .icon12 a, .icon13 a, .icon14 a, .icon15 a, .icon16 a, .icon17 a, .icon18 a, .icon19 a, .icon20 a {
 	text-decoration: none;
 }
 

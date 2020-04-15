@@ -18,6 +18,53 @@ $(document).ready(() => {
 		$(".image3 p").css("background-color", "white");
 	})
 
+
+	$("#click1").on("mouseenter", () => {
+		$("#link1").css("text-decoration", "underline")
+		$("#link1").css("color", "black")
+		$("#click1").css("background-color", "red")
+		$("#click1").css("border-radius", "10px");
+	})
+	$("#click1").on("mouseleave", () => {
+		$("#link1").css("text-decoration", "none")
+		$("#link1").css("color", "red");
+		$("#click1").css("background-color", "#ebff36");
+	})
+	$("#click2").on("mouseenter", () => {
+		$("#link2").css("text-decoration", "underline")
+		$("#link2").css("color", "black")
+		$("#click2").css("background-color", "red")
+		$("#click2").css("border-radius", "10px");
+	})
+	$("#click2").on("mouseleave", () => {
+		$("#link2").css("text-decoration", "none")
+		$("#link2").css("color", "red");
+		$("#click2").css("background-color", "#ebff36");
+	})
+	$("#click3").on("mouseenter", () => {
+		$("#link3").css("text-decoration", "underline")
+		$("#link3").css("color", "black")
+		$("#click3").css("background-color", "red")
+		$("#click3").css("border-radius", "10px");
+	})
+	$("#click3").on("mouseleave", () => {
+		$("#link3").css("text-decoration", "none")
+		$("#link3").css("color", "red");
+		$("#click3").css("background-color", "#ebff36");
+	})
+	$("#click4").on("mouseenter", () => {
+		$("#link4").css("text-decoration", "underline")
+		$("#link4").css("color", "black")
+		$("#click4").css("background-color", "red")
+		$("#click4").css("border-radius", "10px");
+	})
+	$("#click4").on("mouseleave", () => {
+		$("#link4").css("text-decoration", "none")
+		$("#link4").css("color", "red");
+		$("#click4").css("background-color", "#ebff36");
+	})
+
+
 	$(".icon1").on("mouseenter", () => {
 		$(".icon1 p").css("background-color", "yellow");
 	})

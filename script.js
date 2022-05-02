@@ -17,6 +17,18 @@ $(document).ready(() => {
 	$(".image3").on("mouseleave", () => {
 		$(".image3 p").css("background-color", "white");
 	})
+	$(".image4").on("mouseenter", () => {
+		$(".image4 p").css("background-color", "yellow");
+	})
+	$(".image4").on("mouseleave", () => {
+		$(".image4 p").css("background-color", "white");
+	})
+	$(".image5").on("mouseenter", () => {
+		$(".image5 p").css("background-color", "yellow");
+	})
+	$(".image5").on("mouseleave", () => {
+		$(".image5 p").css("background-color", "white");
+	})
 
 
 	$("#click1").on("mouseenter", () => {

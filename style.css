@@ -68,7 +68,7 @@ nav ul {
 	border-radius: 10px;
 }
 
-.image1 p, .image2 p, .image3 p {
+.image1 p, .image2 p, .image3 p, .image4 p, .image5 p {
 	font-size: 35px;
 	color: red;
 	text-align: center;
@@ -80,7 +80,7 @@ nav ul {
 	border-color: red;
 }
 
-.image1 a, .image2 a, .image3 a {
+.image1 a, .image2 a, .image3 a, .image4 a, .image5 a {
 	text-decoration: none;
 
 }

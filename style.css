@@ -178,7 +178,7 @@ nav ul {
 	background-color: white;
 }
 
-.info {
+.info, .info2 {
 	background-color: white;
 	border-style: solid;
 	border-color: red;
@@ -194,12 +194,22 @@ nav ul {
 	color: red;
 }
 
-
 .info h3 {
 	font-size: 25px;
 	color: red;
 }
 
-.info p, .info ul {
+.info p, .info ul, .info2 p {
 	font-size: 20px;
+}
+
+.info2 h1 {
+	font-size: 40px;
+	text-align: center;
+	color: red;
+}
+
+.info2 h2 {
+	font-size: 30px;
+	color: red
 }

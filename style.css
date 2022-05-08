@@ -19,7 +19,7 @@ nav {
 	background-color: #ebff36;
 }
 
-#link1, #link2, #link3, #link4 {
+#link1, #link2, #link3, #link4, #link5, #link6 {
 	color: red;
 	font-size: 25px;
 	text-decoration: none;
@@ -31,7 +31,7 @@ nav ul {
 	padding: 10px;
 }
 
-#click1, #click2, #click3, #click4 {
+#click1, #click2, #click3, #click4, #click5, #click6 {
 	padding: 10px;
 	text-align: center;
 }

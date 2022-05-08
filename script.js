@@ -75,6 +75,28 @@ $(document).ready(() => {
 		$("#link4").css("color", "red");
 		$("#click4").css("background-color", "#ebff36");
 	})
+	$("#click5").on("mouseenter", () => {
+		$("#link5").css("text-decoration", "underline")
+		$("#link5").css("color", "black")
+		$("#click5").css("background-color", "red")
+		$("#click5").css("border-radius", "10px");
+	})
+	$("#click5").on("mouseleave", () => {
+		$("#link5").css("text-decoration", "none")
+		$("#link5").css("color", "red");
+		$("#click5").css("background-color", "#ebff36");
+	})
+	$("#click6").on("mouseenter", () => {
+		$("#link6").css("text-decoration", "underline")
+		$("#link6").css("color", "black")
+		$("#click6").css("background-color", "red")
+		$("#click6").css("border-radius", "10px");
+	})
+	$("#click6").on("mouseleave", () => {
+		$("#link6").css("text-decoration", "none")
+		$("#link6").css("color", "red");
+		$("#click6").css("background-color", "#ebff36");
+	})
 
 
 	$(".icon1").on("mouseenter", () => {

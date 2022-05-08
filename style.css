@@ -188,7 +188,7 @@ nav ul {
 	margin: 20px;
 }
 
-.info h2 {
+.info h2, .info h1 {
 	font-size: 35px;
 	text-align: center;
 	color: red;

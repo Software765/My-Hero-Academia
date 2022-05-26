@@ -219,3 +219,28 @@ nav ul {
 	font-size: 30px;
 	color: red
 }
+
+table {
+	border-collapse: collapse;
+	width: 75%;
+}
+
+table, td, th {
+	border: 1px solid;
+}
+
+th, td {
+	height: 25px;
+	text-align: center;
+	padding: 5px;
+	font-size: 20px;
+}
+
+th {
+	background-color: #ebff36;
+	color: #ed2a11;
+}
+
+tr:nth-child(even) {
+	background-color: #f2f2f2;
+}

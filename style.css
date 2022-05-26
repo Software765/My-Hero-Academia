@@ -68,6 +68,12 @@ nav ul {
 	border-radius: 10px;
 }
 
+#thumbnail2 {
+	height: 300px;
+	width: 320px;
+	border-radius: 10px;
+}
+
 .image1 p, .image2 p, .image3 p, .image4 p, .image5 p {
 	font-size: 35px;
 	color: red;

@@ -175,6 +175,8 @@ nav ul {
 
 .profile {
 	float: right;
+	background-color: white;
+	border-radius: 8px;
 }
 
 #pro {
@@ -223,6 +225,7 @@ nav ul {
 table {
 	border-collapse: collapse;
 	width: 75%;
+	background-color: white;
 }
 
 table, td, th {

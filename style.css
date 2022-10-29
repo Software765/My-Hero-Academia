@@ -66,6 +66,9 @@ nav ul {
 	height: 400px;
 	width: 520px;
 	border-radius: 10px;
+	border-style: solid;
+	border-color: white;
+	border-width: 5px;
 }
 
 #thumbnail2 {
